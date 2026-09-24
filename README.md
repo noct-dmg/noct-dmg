@@ -2,8 +2,6 @@
   <img src="./banner.png" alt="noct.dmg" width="100%">
 </p>
 
-<h1 align="center">William Torres</h1>
-
 <p align="center">
   security · infrastructure · automation
 </p>
