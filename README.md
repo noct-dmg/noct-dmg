@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="noct.dmg" width="100%">
+  <img src="./assets/banner.png" alt="noct.dmg" width="100%">
 </p>
 
 <p align="center">
