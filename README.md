@@ -30,7 +30,7 @@ Building **Kalyx IT** and an unreasonable number of side projects.
 
 ### /projects
 
-`Oxide labs`
+`Oxide labs` \
 Rustscan but worse.
 
 `Kalyx IT`  
