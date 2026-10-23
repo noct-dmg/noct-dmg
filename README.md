@@ -26,8 +26,12 @@ Building **Kalyx IT** and an unreasonable number of side projects.
 - Kubernetes / Talos homelab
 - local AI infrastructure
 - Python
+- Rust
 
 ### /projects
+
+`Oxide labs`
+Rustscan but worse.
 
 `Kalyx IT`  
 Security without blind spots.
